@@ -1,11 +1,15 @@
 ---
 tags:
-    - example
-    - test
-img: blog1.png
-desc: 这是一个示例文档,用于展示各种页面和功能
+    - hello world
+    - 示例
+    - 文档
+img: blog.webp
+desc: hello world!
 ---
-# 示例文档1
+# 示例
+:::info 目录
+[[toc]]
+:::
 ## emoji
 部分展示:
 
