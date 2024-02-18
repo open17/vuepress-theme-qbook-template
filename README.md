@@ -1,7 +1,8 @@
 # vuepress-theme-qbook-template
 An example template of vuepress-theme-qbook
 ## 预览
-[预览地址](https://vuepress-theme-qbook-template.vercel.app/)
+[demo](https://qbook-template.open17.vip/)
+[vercel](https://vuepress-theme-qbook-template.vercel.app/)
 ## 安装
 - 点击github右上角的use this template按钮，创立一个克隆仓库
 - 在git clone你的克隆仓库
